@@ -1,14 +1,14 @@
-# Creating a Hardware Inventory
+# Elaboració d'un inventari de maquinari
 
-In this session:
-- Collaborate in your groups to **identify and document** the technical specifications of the components of the **disassembled computer**. 
-- Create a **hardware inventory** of the components identified. 
+En aquesta sessió:
+- Col·laborareu en els vostres grups per **identificar i documentar** les especificacions tècniques dels components de l'**ordinador desmuntat**.
+- Creareu un **inventari de maquinari** dels components identificats.
 
-Group members should divide the components among themselves to work in parallel, carefully examining each part to determine its brand, model, and key specifications. 
+Els membres del grup haurien de repartir-se els components entre ells per treballar en paral·lel, examinant amb cura cada peça per determinar-ne la marca, el model i les especificacions clau.
 
-## Disassembly & Assembly Tutorial Template:
+## Plantilla del tutorial de desmuntatge i muntatge:
 
-Use the **Hardware Inventory** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Feu servir la secció **Inventari de maquinari** de la *Plantilla del tutorial de desmuntatge i muntatge* proporcionada per organitzar la feina de manera clara i sistemàtica.
 
 ```{raw} html
 <div style="text-align: center">
