@@ -1,9 +1,9 @@
-# Progress Report
+# Informe de progrés
 
-At session end, record group progress and individual contributions in the classroom journal.
+Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
 
 ```{suggestionnote}
-**It makes more sense that they download a doc so they can edit it at any point in time and alter it when they figure out they could add more. With popup its just one time thing.**
+**Té més sentit que es descarreguin un document perquè el puguin editar en qualsevol moment i modificar-lo quan vegin que hi poden afegir més contingut. Amb una finestra emergent, només es pot fer una vegada.**
 ```
 
 ```{raw} html

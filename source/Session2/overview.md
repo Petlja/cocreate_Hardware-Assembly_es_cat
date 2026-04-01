@@ -1,15 +1,15 @@
-# Developing a Disassembly Tutorial
+# Elaboració d'un tutorial de desmuntatge
 
-In this session you will:
-- Collaborate in your groups to safely **disassemble a computer**.
-- Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+En aquesta sessió fareu el següent:
+- Col·laborar en grup per **desmuntar un ordinador** de manera segura.
+- Elaborar un **tutorial de desmuntatge** detallant cada pas i documentant el procés de manera seqüencial amb fotos i descripcions.
 
-## Disassembly & Assembly Tutorial Template:
+## Plantilla del tutorial de desmuntatge i muntatge:
 
-Use the **Disassembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Feu servir la secció **Procés de desmuntatge** de la *Plantilla del tutorial de desmuntatge i muntatge* proporcionada per organitzar la feina de manera clara i sistemàtica.
 
 ```{suggestionnote}
-**Important:** You will continue adding to this same template throughout the course. By the end, it will detail the disassembly process, hardware components and assembly process. Together, this will become the **final product**.
+**Important:** Continuareu afegint contingut a aquesta mateixa plantilla al llarg del curs. Al final, inclourà el procés de desmuntatge, els components de maquinari i el procés de muntatge. Tot plegat constituirà el **producte final**.
 ```
 
 ```{raw} html
@@ -18,30 +18,30 @@ Use the **Disassembly Process** section of the provided *Disassembly & Assembly 
 </div>
 ```
 
-## Disassembly instructions
+## Instruccions de desmuntatge
 
-Disassembly breaks a device into separate parts.
+El desmuntatge consisteix a separar un dispositiu en diferents parts.
 
-Materials required:
+Materials necessaris:
 
-- One working PC
-- Anti-static wrist strap
-- Anti-static mat
-- Anti-static bags (various sizes)
-- Technician’s toolkit
-- Plastic cup or box to organize screws, nuts, bolts
+- Un PC en funcionament
+- Polsera antielectrostàtica
+- Estora antielectrostàtica
+- Bosses antielectrostàtiques (de diverses mides)
+- Joc d'eines de tècnic
+- Got o capsa de plàstic per organitzar cargols, femelles i perns
 
-Procedure:
+Procediment:
 
-| Step | Instructions |
+| Pas | Instruccions |
 |---|---|
-| 1. Unplugging | ✓ Unplug the power cord from the PC. <br>✓ Unplug all the peripherals attached to the computer, such as the keyboard, mouse, monitor, headphones. |
-| 2. Open the case | ![](./images/S2a.png) ![](./images/S2b.png) <br> First remove the screws of the left side cover and slide the side cover. |
-| 3. Disconnect all the connectors | ![](./images/S3a.png) ![](./images/S3b.png) <br> Disconnect all the connectors connected to the motherboard. These include the SATA power cable and data cable of HDD, as well as the SATA cable of optical drive. |
-| 4. Remove the fan | ![](./images/S4a.png) ![](./images/S4b.png) <br> Remove the fan now. |
-| 5. Remove the power supply | ![](./images/S5a.png) ![](./images/S5b.png) <br> Remove the power supply that is connected to the motherboard by a 20-pin connector and 4-pin connector. |
-| 6. Remove HDD and optical drive | ![](./images/S6a.png) ![](./images/S6b.png) <br> Remove the SATA cable connected to the HDD and optical drive in the motherboard. |
-| 7. Remove RAM modules | To remove the RAM: <br> ![](./images/S7.png)|
-| 8. Remove expansion cards | ![](./images/S8.png) <br> To remove the expansion cards, disconnect the cables attached to it. |
-| 9. Remove motherboard | ![](./images/S9.png) <br> To remove the motherboard, disconnect all the cables from the motherboard. |
+| 1. Desconnectar | ✓ Desconnecteu el cable d'alimentació del PC. <br>✓ Desconnecteu tots els perifèrics connectats a l'ordinador, com ara el teclat, el ratolí, el monitor i els auriculars. |
+| 2. Obrir la carcassa | ![](./images/S2a.png) ![](./images/S2b.png) <br> Primer, traieu els cargols de la tapa lateral esquerra i feu lliscar la tapa. |
+| 3. Desconnectar tots els connectors | ![](./images/S3a.png) ![](./images/S3b.png) <br> Desconnecteu tots els connectors connectats a la placa base. Això inclou el cable d'alimentació SATA i el cable de dades del HDD, així com el cable SATA de la unitat òptica. |
+| 4. Retirar el ventilador | ![](./images/S4a.png) ![](./images/S4b.png) <br> Ara retireu el ventilador. |
+| 5. Retirar la font d'alimentació | ![](./images/S5a.png) ![](./images/S5b.png) <br> Retireu la font d'alimentació, que està connectada a la placa base mitjançant un connector de 20 pins i un de 4 pins. |
+| 6. Retirar el HDD i la unitat òptica | ![](./images/S6a.png) ![](./images/S6b.png) <br> Retireu el cable SATA connectat al HDD i a la unitat òptica de la placa base. |
+| 7. Retirar els mòduls de RAM | Per retirar la RAM: <br> ![](./images/S7.png)|
+| 8. Retirar les targetes d'expansió | ![](./images/S8.png) <br> Per retirar les targetes d'expansió, desconnecteu els cables que hi estan connectats. |
+| 9. Retirar la placa base | ![](./images/S9.png) <br> Per retirar la placa base, desconnecteu tots els cables de la placa base. |
 
