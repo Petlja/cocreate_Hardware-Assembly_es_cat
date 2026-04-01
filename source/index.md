@@ -1,6 +1,6 @@
 ﻿---
 status: exclude
-alias: CoCreate_HW_Assembly_en
+alias: CoCreate_HW_Assembly_cat
 lang: ca
 short_description: Desmuntatge i muntatge col·laboratius d'un sistema informàtic.
 long_description: >

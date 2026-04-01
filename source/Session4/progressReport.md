@@ -1,10 +1,10 @@
-# Final product
+# Producte final
 
-Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+Molt bé per haver completat el procés de muntatge; la vostra plantilla ja és completa i servirà com a producte final del curs. Dediqueu temps a revisar-la amb cura en grup i, després, descarregueu-la i lliureu-la a Google Classroom.
 
-## Progress Report
+## Informe de progrés
 
-At session end, record group progress and individual contributions in the classroom journal.
+Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
 
 ```{raw} html
 <div style="text-align: center">

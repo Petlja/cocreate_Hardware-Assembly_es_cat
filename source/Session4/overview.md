@@ -1,14 +1,14 @@
-# Developing an Assembly Tutorial
+# Elaboració d'un tutorial de muntatge
 
-In this session:
-- Collaborate to safely **assemble a computer**
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-- Collaborate in your groups to safely **assemble a computer**.
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
+En aquesta sessió:
+- Col·laborareu per **muntar un ordinador** de manera segura.
+- Elaborareu un **tutorial de muntatge** detallant cada pas i documentant el procés de manera seqüencial amb fotos i descripcions.
+- Col·laborareu en els vostres grups per **muntar un ordinador** de manera segura.
+- Elaborareu un **tutorial de muntatge** detallant cada pas i documentant el procés de manera seqüencial amb fotos i descripcions.
 
-## Disassembly & Assembly Tutorial Template:
+## Plantilla del tutorial de desmuntatge i muntatge:
 
-Use the **Assembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.  
+Feu servir la secció **Procés de muntatge** de la *Plantilla del tutorial de desmuntatge i muntatge* proporcionada per organitzar la feina de manera clara i sistemàtica.
 
 ```{raw} html
 <div style="text-align: center">
@@ -16,39 +16,39 @@ Use the **Assembly Process** section of the provided *Disassembly & Assembly Tut
 </div>
 ```
 
-## Assembly instructions
+## Instruccions de muntatge
 
-Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
+El muntatge d'ordinadors és una tasca essencial per a un tècnic d'instal·lació informàtica. És un procés en què s'instal·len tots els components interns necessaris perquè el sistema informàtic sigui funcional. Hi ha una seqüència adequada d'instal·lació per a cadascun dels components del sistema.
 
-It is a systematic process. Start by arranging the computer parts.
+És un procés sistemàtic. Comenceu organitzant les peces de l'ordinador.
 
-Materials required:
+Materials necessaris:
 
-- Computer case with PSU installed
-- Motherboard
+- Carcassa d'ordinador amb la PSU instal·lada
+- Placa base
 - CPU
-- Heat sink/fan assembly
-- Thermal compound
-- RAM module(s)
-- Motherboard standoffs and screws
-- Anti-static wrist strap and mat
-- Tool kit
+- Dissipador de calor/ventilador
+- Pasta tèrmica
+- Mòdul(s) de RAM
+- Separadors i cargols de la placa base
+- Polsera i estora antielectrostàtiques
+- Joc d'eines
 
-| Step | Instructions |
+| Pas | Instruccions |
 |---|---|
-| 1. Open the case | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> The first step in assembling a computer is to open the computer case. To open the case, first remove the screws of the left side cover and slide the slide cover. |
-| 2. Install the power supply | ![](./images/S2.png) <br> The next step is to install a power supply. There are usually four screws that attach the power supply to the case. |
-| 3. Attach components to the motherboard | ![](./images/S3a.png) <br> The motherboard has to be prepared before its installation. To prepare the motherboard, you first need to install the CPU, then the heat sink on the CPU, and then the CPU fan. <br> ![](./images/S3b.png) <br> CPU:<br> A CPU socket uses a series of pins to connect a CPU’s processor to the PC’s motherboard. A CPU is connected via a CPU socket. <br> ![](./images/S3c.png) <br> Heat sink and fan assembly:<br> A Heat Sink and Fan (HSF) is an active cooling situation used to cool down integrated circuits in computer systems, commonly the Central Processing Unit (CPU). <br> ![](./images/S3d.png) <br> Connect the assembly power cable to the CPU fan connector on the motherboard. <br> ![](./images/S3e.png) <br> Installation of RAM: <br> To install the RAM, first install it on the motherboard and then fix the motherboard in the case. To install the RAM, first ensure its compatibility with the motherboard. |
-| 4. Install the motherboard | ![](./images/S4.png) <br> After preparing the motherboard, you can install the computer case.|
-| 5. Install internal drives | ![](./images/S5.png) <br> Hard drive - The hard drive is the device which stores all data. Connect the power cable coming from the SMPS to the power socked of the hard disk drive. Connect the SATA data cable from the hard disk drive socket to the motherboard socket. |
-| 6. Connect all internal cables | ![](./images/S6.png) <br> Power cables are used to distribute electricity from the power supply to the motherboard and other components. Data cables transmit data between the motherboard and storage devices, such as hard drives. |
-| 7. Install motherboard power connections | ![](./images/S7.png) <br> The Advanced Technology Extended (ATX) main power connector will have either 20 or 24 pins. |
-| 8. Connect external cables | ![](./images/S8a.png) <br> Connect the monitor - The VGA cable is used to connect to the monitor. ![](./images/S8b.png) <br> Connect the keyboard - If it uses a USB connector, plug it into any of the USB ports on the back of the computer. ![](./images/S8c.png) <br> Connect headphones or speakers, and microphone - Connect the external speakers or headphones, to the computer’s audio port (either on the front or back of the computer case). ![](./images/S8d.png) <br> Connect the computer to a power supply - Connect the power supply cable into the back of the computer case.  ![](./images/S8e.png) <br> Connect the printer, scanner and webcam |
-| 9. Starting the computer | ![](./images/S9.png) <br>Always remember that the first step is to push the power button of the CPU, then the monitor’s. An operating system or system software like Window or Linux will start loading. Now your computer is ready to use. |
+| 1. Obrir la carcassa | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> El primer pas per muntar un ordinador és obrir la carcassa. Per obrir-la, primer traieu els cargols de la tapa lateral esquerra i feu lliscar la tapa. |
+| 2. Instal·lar la font d'alimentació | ![](./images/S2.png) <br> El pas següent és instal·lar la font d'alimentació. Normalment hi ha quatre cargols que fixen la font a la carcassa. |
+| 3. Connectar components a la placa base | ![](./images/S3a.png) <br> La placa base s'ha de preparar abans de la instal·lació. Per preparar-la, primer cal instal·lar la CPU, després el dissipador sobre la CPU i finalment el ventilador de la CPU. <br> ![](./images/S3b.png) <br> CPU:<br> El sòcol de CPU utilitza una sèrie de pins per connectar el processador de la CPU a la placa base del PC. La CPU es connecta mitjançant aquest sòcol. <br> ![](./images/S3c.png) <br> Dissipador i ventilador:<br> Un conjunt de Dissipador i Ventilador (HSF) és un sistema de refrigeració activa que s'utilitza per refredar circuits integrats en sistemes informàtics, habitualment la Unitat Central de Processament (CPU). <br> ![](./images/S3d.png) <br> Connecteu el cable d'alimentació del conjunt al connector del ventilador de CPU de la placa base. <br> ![](./images/S3e.png) <br> Instal·lació de la RAM: <br> Per instal·lar la RAM, primer instal·leu-la a la placa base i després fixeu la placa base a la carcassa. Abans d'instal·lar-la, assegureu-vos que sigui compatible amb la placa base. |
+| 4. Instal·lar la placa base | ![](./images/S4.png) <br> Un cop preparada la placa base, ja podeu instal·lar-la a la carcassa de l'ordinador. |
+| 5. Instal·lar unitats internes | ![](./images/S5.png) <br> Disc dur - El disc dur és el dispositiu que emmagatzema totes les dades. Connecteu el cable d'alimentació que surt de l'SMPS al connector d'alimentació del disc dur. Connecteu el cable de dades SATA del connector del disc dur al connector de la placa base. |
+| 6. Connectar tots els cables interns | ![](./images/S6.png) <br> Els cables d'alimentació distribueixen electricitat des de la font cap a la placa base i altres components. Els cables de dades transmeten dades entre la placa base i els dispositius d'emmagatzematge, com ara els discs durs. |
+| 7. Instal·lar les connexions d'alimentació de la placa base | ![](./images/S7.png) <br> El connector principal d'alimentació Advanced Technology Extended (ATX) té 20 o 24 pins. |
+| 8. Connectar cables externs | ![](./images/S8a.png) <br> Connecteu el monitor - El cable VGA s'utilitza per connectar el monitor. ![](./images/S8b.png) <br> Connecteu el teclat - Si fa servir connector USB, connecteu-lo a qualsevol port USB de la part posterior de l'ordinador. ![](./images/S8c.png) <br> Connecteu auriculars o altaveus, i micròfon - Connecteu els altaveus externs o auriculars al port d'àudio de l'ordinador (a la part frontal o posterior de la carcassa). ![](./images/S8d.png) <br> Connecteu l'ordinador a la xarxa elèctrica - Connecteu el cable d'alimentació a la part posterior de la carcassa. ![](./images/S8e.png) <br> Connecteu la impressora, l'escàner i la càmera web |
+| 9. Engegar l'ordinador | ![](./images/S9.png) <br> Recordeu sempre que el primer pas és prémer el botó d'encesa de l'ordinador i després el del monitor. Començarà a carregar-se un sistema operatiu o programari de sistema, com Windows o Linux. Ara l'ordinador ja està llest per utilitzar-se. |
 
-## Submit your final product
+## Enviar el producte final
 
-Review the completed template as a group, download it, and submit it in Google Classroom.
+Reviseu la plantilla completada en grup, descarregueu-la i lliureu-la a Google Classroom.
 
 ```{suggestionnote}
 **Google Classroom????**
