@@ -2,7 +2,7 @@
 status: exclude
 alias: CoCreate_HW_Assembly_cat
 lang: en
-short_description: Desmuntatge i muntatge col·laboratius d'un sistema informàtic.
+short_description: Desmuntatge i muntatge col·laboratius d'un sistema informàtic
 long_description: >
     <p>En aquest curs, l'alumnat desmuntarà i muntarà de manera segura i col·laborativa un sistema informàtic, n'identificarà i registrarà els components, i elaborarà documentació tècnica clara i precisa de tot el procés al llarg de quatre sessions.</p>
     <p>
