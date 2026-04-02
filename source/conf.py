@@ -33,7 +33,7 @@ copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = 'CoCreate Hardware Assembly ES'
+html_title = 'CoCreate Hardware Assembly Català'
 
 def get_builder_from_args():
     import sys
