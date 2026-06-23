@@ -1,13 +1,14 @@
 # Informe de progrés
 
-Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
+Heu estat excel·lents avui!
 
-```{suggestionnote}
-**Té més sentit que es descarreguin un document perquè el puguin editar en qualsevol moment i modificar-lo quan vegin que hi poden afegir més contingut. Amb una finestra emergent, només es pot fer una vegada.**
-```
+Per favor, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
+
+Responeu a cada pregunta el més complet possible perquè el vostre professor pugui apreciar millor el vostre progrés.
+
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/1Sb6xT95ytqCZy9-NV5FFGvP30aUXezQJA8T61bThM6E/preview" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="https://forms.gle/Z8JyjEtFQ9G9Lkxq6" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 ```
