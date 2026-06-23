@@ -1,3 +1,6 @@
+---
+status: exclude
+---
 # Sessió 3 - Elaboració d'un inventari de maquinari
 
 ```{toctree}

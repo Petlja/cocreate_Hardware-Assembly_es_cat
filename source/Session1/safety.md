@@ -62,7 +62,19 @@ Per prevenir accidents, cal:
 Es important coneixer i respectar els senyals d'advertencia que apareixen en diferents elements.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
+
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
+
+```{image} images/safety1-3.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
