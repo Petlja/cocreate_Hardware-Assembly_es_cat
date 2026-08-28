@@ -204,9 +204,5 @@ En els grups que heu format per a les sessions següents, debateu i trobeu soluc
 
 2. Pel que fa als sistemes d'extinció d'incendis, quin tipus d'extintor faries servir per apagar un foc iniciat en un PC obert que estaves reparant?
 
-3. Suposa que, mentre intentàveu apagar el foc esmentat abans, el teu company o companya s'ha cremat la mà i el braç. Quines mesures de primers auxilis prendries?
-
-4. En un altre equip, mentre retiraves la font d'alimentació, t'has tallat un dit. Quines mesures de primers auxilis prendries?
-
-5. Quin equip de protecció bàsic s'ha d'utilitzar al taller per reduir els riscos associats als equips informàtics?
+3. Quin equip de protecció bàsic s'ha d'utilitzar al taller per reduir els riscos associats als equips informàtics?
 

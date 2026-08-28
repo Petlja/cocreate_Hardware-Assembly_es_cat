@@ -205,34 +205,19 @@ Diferents extintors estan dissenyats per a diferents classes de foc. Utilitzar-n
 | Agent quimic humit | **Si** | No | No | No | **Si** |
 | Aigua | **Si** | No | No | No | No |
 
-```{infonote} 
+```{infonote}
 Quan treballeu amb equips electrics, com ara ordinadors, utilitzeu sempre un **extintor de Classe C** (p. ex., CO2 o Halotron). No condueixen l'electricitat i eviten danys addicionals als dispositius.
 ```
 
-
 ### 8) Primers auxilis
 
-<u>Tractament de ferides:</u>
-
-Netegeu la ferida amb abundant aigua i sabo suau, i desinfecteu-la amb alcohol. Inspeccioneu la ferida i retireu qualsevol cos estrany si n'hi ha, i torneu a desinfectar amb alcohol. Deixeu la ferida a l'aire si no hi ha risc de contacte; en cas contrari, cobriu-la amb una tireta.
-
-<u>Tractament de cremades:</u>
-
-Si cal, retireu tota la roba de la zona cremada excepte la que estigui adherida a la pell. Submergiu la zona cremada en aigua freda durant 10 minuts, repetint-ho cada 40 minuts si el dolor persisteix. Si el dolor no disminueix, consulteu un metge.
-
-<u>Urgencies oculars:</u>
-
-Aquestes situacions nomes han de ser tractades per oftalmolegs. Les lesions oculars mes greus son: cremades, que s'han de tractar com a cremades (neteja i aigua freda); traumatismes oculars causats per cops, soldadura o objectes punxants, cas en que cal cobrir l'ull; i contusions al voltant de la parpella, on es pot aplicar gel de manera indirecta.
-
-<u>Substancies toxiques:</u>
-
-Si s'han ingerit substancies corrosives, beveu llet o aigua. Si la substancia es acida, preneu magnesi; si es alcalina, preneu vinagre o llimona. En cas d'hospitalitzacio, cal portar una mostra de la substancia i contactar amb l'Institut de Toxicologia.
-
-Si s'han ingerit substancies no corrosives, s'ha d'induir el vomit fent pessigolles a la uvula amb una cullera o be bevent una tassa de cafe amb sal.
+```{infonote}
+n cas de lesió, es recomana contactar amb la persona responsable dels primers auxilis i/o trucar al Servei d’Emergències Mèdiques.
+```
 
 A la fitxa seguent 👇 trobareu un **resum de les Normes de Seguretat per al Muntatge i Desmuntatge d'Ordinadors**, que heu d'utilitzar com a referencia durant totes les sessions seguents:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Summary of the Safety Rules for Computer Assembly and Disassembly.
