@@ -1,7 +1,17 @@
-## Progress Report - Final report
+# Producte final
 
-Open your progress report and add the final section, about Activity 4. Describe what you achieved, how each group member contributed, how the collaboration went, and what you learned.
-Finally, read through the whole report and think about how your work changed from Activity 2 to Activity 4. In a few sentences, write about where you made the most progress.
-Save the document and submit it in the way you agreed with your teacher.
+Molt bé per haver completat el procés de muntatge; la vostra plantilla ja és completa i servirà com a producte final del curs.
 
+## Informe de progrés
 
+Heu estat excel·lents avui!
+
+Per favor, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
+
+Responeu a cada pregunta el més complet possible perquè el vostre professor pugui apreciar millor el vostre progrés.
+
+```{raw} html
+<div style="text-align: center">
+    <iframe src="https://docs.google.com/document/d/1Az-EXxBRAaOoq7MnXK9fhow24yhJVez6/edit?usp=sharing&ouid=107308139824931091986&rtpof=true&sd=true" width="100%" height="600px" frameborder="0"></iframe>
+</div>
+```
