@@ -1,21 +1,14 @@
-# Progress Report
+# Informe de progrés
 
-You did a great job today! 
+Heu estat excel·lents avui!
 
-Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
+Per favor, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
 
-Answer each question as fully as possible so your teacher can better appreciate your progress.
-
-You will add to this report after each of the following activities, so make sure you save the document and remember where you saved it.
+Responeu a cada pregunta el més complet possible perquè el vostre professor pugui apreciar millor el vostre progrés.
 
 
 ```{raw} html
 <div style="text-align: center">
-    <a href="../_static/word/EN_Template_Progress report.docx" width="100%" height="600px"> Download the progress tracking document</a>
+    <iframe src="https://docs.google.com/document/d/1Az-EXxBRAaOoq7MnXK9fhow24yhJVez6/edit?usp=sharing&ouid=107308139824931091986&rtpof=true&sd=true" width="100%" height="600px" frameborder="0"></iframe>
 </div>
-```
-
-```{learnmorenote} For teachers
-
-Before students begin working on the report, clearly explain to them where they should save it and how they should submit it (for example, in a shared folder, on the learning platform, or by email). Students will continue updating the same document after Activities 3 and 4, so it is important that they can easily reopen it.
 ```
