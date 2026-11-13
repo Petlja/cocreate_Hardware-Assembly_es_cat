@@ -1,10 +1,6 @@
 # Informe de progrés
 
-Heu estat excel·lents avui!
-
-Per favor, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
-
-Responeu a cada pregunta el més complet possible perquè el vostre professor pugui apreciar millor el vostre progrés.
+Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
 
 ```{raw} html
 <div style="text-align: center">

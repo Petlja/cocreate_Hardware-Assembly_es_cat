@@ -1,7 +1,13 @@
-## Progress Report - Final report
+# Producte final
 
-Open your progress report and add the final section, about Activity 4. Describe what you achieved, how each group member contributed, how the collaboration went, and what you learned.
-Finally, read through the whole report and think about how your work changed from Activity 2 to Activity 4. In a few sentences, write about where you made the most progress.
-Save the document and submit it in the way you agreed with your teacher.
+Molt bé per haver completat el procés de muntatge; la vostra plantilla ja és completa i servirà com a producte final del curs. Dediqueu temps a revisar-la amb cura en grup i, després, descarregueu-la i lliureu-la a Google Classroom.
 
+## Informe de progrés
 
+Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
+
+```{raw} html
+<div style="text-align: center">
+    <iframe src="https://docs.google.com/document/d/1Sb6xT95ytqCZy9-NV5FFGvP30aUXezQJA8T61bThM6E/preview" width="100%" height="600px" frameborder="0"></iframe>
+</div>
+```
