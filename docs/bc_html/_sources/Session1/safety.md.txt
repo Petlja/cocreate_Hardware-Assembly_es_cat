@@ -62,12 +62,21 @@ To prevent accidents, it is necessary to:
 It is important to know and respect the warning signs that appear on different elements.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
-
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
+```{image} images/safety1-3.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
 ```{image} images/safety2.png
 :width: 80%
 :align: center
@@ -197,30 +206,15 @@ Different extinguishers are designed for different fire classes. Using the wrong
 When dealing with electrical equipment, such as computers, always use a **Class C extinguisher** (e.g., CO₂ or Halotron). These do not conduct electricity and prevent further damage to devices.
 ```
 
-
 ### 8) First aid
 
-<u>Treatment of wounds:</u>
-
-Clean the wound with plenty of water and mild soap, then disinfect it with alcohol. Inspect the wound and remove any foreign objects if present, then disinfect again with alcohol. Leave the wound exposed to air if there is no risk of contact; otherwise, cover it with a band-aid.
-
-<u>Treatment of burns:</u>
-
-If necessary, remove all clothing from the burned area except any that is stuck to the skin. Immerse the burned area in cold water for 10 minutes, repeating every 40 minutes if pain persists. If the pain does not subside, see a doctor.
-
-<u>Eye emergencies:</u>
-
-These should only be treated by ophthalmologists. The most serious eye injuries are: burns, which should be treated as burns (cleaning and cold water); eye trauma caused by blows, welding, or sharp objects, in which case the eye should be covered; and contusions around the eyelid, where indirect application of ice can be used.
-
-<u>Toxic substances:</u>
-
-If corrosive substances have been ingested, drink milk or water. If the substance is acidic, take magnesium; if it is alkaline, take vinegar or lemon. In case of hospitalization, a sample of the substance should be taken and contact made with the Toxicology Institute.
-
-If non-corrosive substances are ingested, vomiting should be induced by tickling the uvula with a spoon or by drinking a cup of coffee with salt.
+```{infonote} 
+In the event of an injury, it is advisable to contact the person responsible for first aid and/or call the **Emergency Medical Service**.
+```
 
 On the following sheet 👇, you will find a **summary of the Safety Rules for Computer Assembly and Disassembly**, which you should use as a reference throughout all upcoming sessions:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Summary of the Safety Rules for Computer Assembly and Disassembly.

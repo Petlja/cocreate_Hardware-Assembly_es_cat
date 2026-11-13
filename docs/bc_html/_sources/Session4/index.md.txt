@@ -7,5 +7,6 @@ status: exclude
 :maxdepth: 2
 
 overview
+tutorial
 progressReport
 ```

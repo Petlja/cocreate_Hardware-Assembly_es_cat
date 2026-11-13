@@ -2,13 +2,14 @@
 
 ## Objectives
 
-- Learn techniques and procedures for assembling and disassembling computer equipment.
-- Learn how to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-- Develop collaboration, communication, problem-solving, teamwork, and time management skills.
+By the end, you will be able to:
+- Safely assemble and disassemble computer equipment
+- Use basic tools, safety equipment, and the platform correctly while working with hardware and laptops
+- Improve teamwork, communication, problem-solving, and time management skills
 
 ## Prerequisites
 
-Students participating in this activity should already be familiar with the components used in assembling computer systems, as well as their key specifications, including:
+Before starting this activity, you should already know the main computer parts and their basic specifications, including:
 
 - Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
 - Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
@@ -19,9 +20,9 @@ Students participating in this activity should already be familiar with the comp
 - Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
 - Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
 
-# Course Description
+## Course Description
 
-In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+In this course, you will learn how to **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
 
 ## Sessions
 

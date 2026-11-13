@@ -1,22 +1,12 @@
-# Developing an Assembly Tutorial
+# Assembly instructions
 
+```{suggestionnote}
 In this session:
 - Collaborate to safely **assemble a computer**
 - Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
 - Collaborate in your groups to safely **assemble a computer**.
 - Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
-
-## Disassembly & Assembly Tutorial Template:
-
-Use the **Assembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.  
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/18J_qKyfmHlTXNZIo0ZqgH_LuOgD4V9fQ0w-TetFaJcc/edit?usp=sharing" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
-
-## Assembly instructions
+``` 
 
 Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
 
@@ -48,9 +38,4 @@ Materials required:
 
 ## Submit your final product
 
-Review the completed template as a group, download it, and submit it in Google Classroom.
-
-```{suggestionnote}
-**Google Classroom????**
-```
-
+Review the completed template as a group, download it, and submit it.

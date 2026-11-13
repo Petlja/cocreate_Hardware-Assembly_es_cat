@@ -62,12 +62,21 @@ Per prevenir accidents, cal:
 Es important coneixer i respectar els senyals d'advertencia que apareixen en diferents elements.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
-
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
+```{image} images/safety1-3.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
 ```{image} images/safety2.png
 :width: 80%
 :align: center
@@ -220,7 +229,7 @@ Si s'han ingerit substancies no corrosives, s'ha d'induir el vomit fent pessigol
 
 A la fitxa seguent 👇 trobareu un **resum de les Normes de Seguretat per al Muntatge i Desmuntatge d'Ordinadors**, que heu d'utilitzar com a referencia durant totes les sessions seguents:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Summary of the Safety Rules for Computer Assembly and Disassembly.

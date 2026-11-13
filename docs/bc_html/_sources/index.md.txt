@@ -1,6 +1,7 @@
 ﻿---
 status: exclude
 alias: CoCreate_HW_Assembly_en
+lang: en
 short_description: Collaboratively disassembling and reassembling a computer system.
 long_description: >
     <p>In this course, learners will safely and collaboratively disassemble and reassemble a computer system, identify and record its components, and produce clear, accurate technical documentation of the entire process across four sessions.</p>
