@@ -1,13 +1,10 @@
-# Progress Report
+# Informe de progrés
 
-You did a great job today! 
+Al final de la sessió, registreu el progrés del grup i les contribucions individuals al diari de classe.
 
-Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
-
-Answer each question as fully as possible so your teacher can better appreciate your progress.
-
-You will add to this report after each of the following activities, so make sure you save the document and remember where you saved it.
-
+```{suggestionnote}
+**Té més sentit que es descarreguin un document perquè el puguin editar en qualsevol moment i modificar-lo quan vegin que hi poden afegir més contingut. Amb una finestra emergent, només es pot fer una vegada.**
+```
 
 ```{raw} html
 <div style="text-align: center">
